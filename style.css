@@ -1,0 +1,10 @@
+#gnav{
+    background-color: gray;
+}
+#gnav ul{
+    overflow: hidden;
+}
+#gnav li{
+    float: left;
+    width: 200px;
+}
